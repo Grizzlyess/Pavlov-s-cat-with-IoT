@@ -96,8 +96,8 @@
 
 
 // Configuração Wi-Fi
-const char* ssid = "ESP32ap";
-const char* password = "12345678";
+const char* ssid = "Nome da rede";
+const char* password = "senha";
 
 // Configuração do servidor web
 ESP8266WebServer server(80);
